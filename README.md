@@ -1,1 +1,3 @@
 # 30DaystoDataScientist
+This is a 30 Days to Data Scientist roadmap journey I will be following in order to achieve my accomplishments. I will be psoted on a daily basis to keep a track of what I'm doing . The repositroy is divided into 30 parts such as day01 to day 30 showcasing my sheer interest in learning and ahcieving outcome. I will be woerking on multiple projects over the next 30 days, if you have any more interesting stuff I can include as projects please feel free to reach out at jayakrishnadusa@gmail.com.
+Here is the link to my linkedin account: https://www.linkedin.com/in/jaya-krishna-dusa/
